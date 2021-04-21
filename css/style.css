@@ -174,7 +174,7 @@
 	margin: auto;
 }
 .footer {
-	width: 350px;
+	width: 300px;
 	height: 150px;
 	/*background-color: #F2F2F2;*/
 	display: inline-block;
@@ -196,7 +196,6 @@
 .payment-logo {
 	margin-top: 70px;
 	margin-left: 60px;
-	margin-right: 10px;
 	height: 30px;
 	width: 50px;
 
